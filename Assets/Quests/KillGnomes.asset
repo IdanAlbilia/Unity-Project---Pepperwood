@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e0405f7dad74f5943bbf70fd77f960f1, type: 3}
+  m_Name: KillGnomes
+  m_EditorClassIdentifier: 
+  questType: 0
+  name: Kill 5 Gnomes
+  questDescription: kill 5 evil gnomes
+  loot:
+  - {fileID: 11400000, guid: 6244a9dee8a70204a8cca66e80fbc84b, type: 2}
+  - {fileID: 11400000, guid: 650acca032501e34b98fcadb7fa68038, type: 2}
+  - {fileID: 11400000, guid: 600785a73dbe45a43956d874f56a0a21, type: 2}
+  exp: 150
+  finished: 0
+  completed: 1
+  requiredAmount: 5
+  currentAmount: 6
+  tag: Gnome
