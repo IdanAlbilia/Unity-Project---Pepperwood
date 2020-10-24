@@ -4,7 +4,7 @@ Pepperwood is a RPG where you play a knight-dog who has enemies and quests.
 
 Here are some ingame images:
  
-![pepperwood1](https://user-images.githubusercontent.com/54328209/97081222-8e215d00-1609-11eb-9370-75ddb1fd852b.png)
+![pepperwood1](https://user-images.githubusercontent.com/54328209/97081449-32f06a00-160b-11eb-9dfb-05a505e839af.png)
 
 ![pepperwood3](https://user-images.githubusercontent.com/54328209/97081398-e147df80-160a-11eb-84e0-ccc5ce05b4d5.png)
 
